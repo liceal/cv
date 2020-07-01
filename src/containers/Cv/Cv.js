@@ -33,6 +33,10 @@ function FixedButton(props) {
     )
 }
 
+function Tip() {
+    console.log('123');
+}
+
 /**
  * 简历
  */
@@ -45,11 +49,11 @@ class Cv extends Component {
         this.projects = [
             {
                 url: 'https://github.com/liceal/vue-modules-test',
-                name: 'Vue有趣实用的第三方库快速入门demo，快速上手，创建文件夹自动引入组件'
+                name: 'Vue有趣实用的第三方库合集快速入门，快速上手，创建文件夹自动引入组件'
             },
             {
                 url: 'https://github.com/liceal/vue-blog',
-                name: '早期入门Vue+Php写的博客，对数据库CURD，上传图片，文章使用md格式'
+                name: '早期入门Vue+Php写的博客，文章CURD，上传图片，文章使用Markdown格式'
             },
         ]
         this.skills = [
@@ -124,7 +128,7 @@ class Cv extends Component {
                                         Email: 675024132@qq.com
                                     </div>
                                     <div className="col">
-                                        网站：<a href="www.linxianao.com">www.linxianao.com</a>
+                                        网站：<a href="http://linxianao.com">www.linxianao.com</a>
                                     </div>
                                 </div>
                             </div>
@@ -181,7 +185,9 @@ class Cv extends Component {
                                 </div>
                                 <div className="row">
                                     - 使用Vue + AngDesign + springBoot + MySql
-                                    - 负责快速构建高质量页面、对接处理数据、大分辨率调试及适配
+                                </div>
+                                <div className="row">
+                                    - 负责快速构建高质量页面、对接处理数据、分辨率调试及适配
                                 </div>
                                 <div className="row">
                                     <b>解决难点:</b>
@@ -190,13 +196,13 @@ class Cv extends Component {
                                     - 不同角色对应不同权限逻辑处理
                                 </div>
                                 <div className="row">
-                                    - 懒加载以减缓渲染时常、高度组件化、模块化形成界面统一风格
+                                    - 高度组件化、模块化形成界面统一风格
                                 </div>
                                 <div className="row">
                                     - 文件上传与下载
                                 </div>
                                 <div className="row">
-                                    - 适配不同分辨率大小
+                                    - 适配不同设备分辨率
                                 </div>
                             </div>
                         </div>
