@@ -1,18 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import './index.less';
+import { BrowserRouter,HashRouter, Switch, Route } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 import routers from './routers/routers'
+import Footer from './components/Footer/Footer'
 
 ReactDOM.render(
-  <BrowserRouter>
+  <HashRouter>
     <Switch>
       {routers.map(v => (
-        <Route key={v.path} path={v.path} exact={v.exact} component={v.component} />
+        <Route key={v.path} path={v.path} exact={v.exact} component={v.component}/>
       ))}
     </Switch>
-  </BrowserRouter>
+    <Footer />
+  </HashRouter>
   , document.getElementById('root')
 );
 

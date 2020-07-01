@@ -1,16 +1,9 @@
 import loadable from '@loadable/component'
 const routers = [{
-        path: '/',
-        exact: true, //精准
-        component: loadable(() =>
-            import ('../components/Home'))
-    },
-    {
-        path: 'cv',
-        exact: true,
-        component: loadable(() =>
-            import ('../components/Cv'))
-    }
-]
+    path: '/',
+    exact: true, //精准
+    component: loadable(() =>
+        import ('../containers/Cv/Cv.js'))
+}]
 
 export default routers
