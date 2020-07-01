@@ -164,7 +164,7 @@ class Cv extends Component {
                         <div className="boxes">
                             <div className="box-line">
                                 <div className="row">
-                                    督导管理系统 （ 2018-10 ~ 2019-9 ）
+                                    督导管理系统 （ 2019-03 ~ 2020-01 ）
                                 </div>
                                 <div className="row">
                                     <b>前端开发</b>
