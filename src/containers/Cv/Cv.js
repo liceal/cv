@@ -3,7 +3,7 @@ import Header from '../../components/Header/Header'
 import Download from '../../components/DownLoad/DownLoad'
 import './Cv.less'
 // http://linxianao.com/cv/pdfCv.pdf
-const pdfUrl = "http://linxianao.com/cv/pdfCv.pdf";
+const pdfUrl = "http://linxianao.com/cv/wordCv.pdf";
 
 /**
  * 下载和置顶按钮
