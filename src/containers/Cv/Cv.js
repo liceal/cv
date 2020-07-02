@@ -61,7 +61,7 @@ class Cv extends Component {
             '有使用过elementUi,AntProUi开发经验',
             '前端技术栈擅长Vue全家桶,Uniapp,微信小程序,Recat,擅长组件开发及构建优化',
             '后端了解Php,Nodejs',
-            '不定时发维护技术博客,能快速上手BS端开发'
+            '不定时维护技术博客,能快速上手BS端开发'
         ]
         window.addEventListener('scroll', (event) => {
             let scrollTop = document.documentElement.scrollTop;  //滚动条滚动高度
@@ -215,10 +215,10 @@ class Cv extends Component {
                                     学术类：国家励志奖学金(1次)、班级一等奖(2次)
                                 </div>
                                 <div className="row">
-                                    实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM校赛团体三等。
+                                    实践类：人工智能团体赛三等奖、程序设计团体赛三等奖、ACM校赛团体三等
                                 </div>
                                 <div className="row">
-                                    技能证书：PAT乙级，二级C
+                                    技能证书：PAT乙级、二级C
                                 </div>
                             </div>
                         </div>
@@ -233,6 +233,16 @@ class Cv extends Component {
                             </div>
                         </div>
 
+                    </section>
+                    <section>
+                        <h1>致谢</h1>
+                        <div className="boxes">
+                            <div className="box-line">
+                                <div className="row">
+                                    感谢您花时间阅读我的简历，期待能有机会和您共事
+                                </div>
+                            </div>
+                        </div>
                     </section>
                 </main>
                 <FixedButton showTop={this.state.topShow} />
