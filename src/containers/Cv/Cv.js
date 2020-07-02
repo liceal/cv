@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import Header from '../../components/Header/Header'
+import Download from '../../components/DownLoad/DownLoad'
 import './Cv.less'
 // http://linxianao.com/cv/pdfCv.pdf
 const pdfUrl = "http://linxianao.com/cv/pdfCv.pdf";
@@ -20,15 +21,15 @@ function FixedButton(props) {
                     <div className="text iconfont icon-Group-"></div>
                 </div>
 
-                <div className="fixed-button download">
-                    <a className="text iconfont icon-xiazai" href={pdfUrl} />
-                </div>
+                <Download />
             </div>
         )
     }
     return (
         <div className="fixed-button download">
-            <a className="text iconfont icon-xiazai" href={pdfUrl} />
+            <Download />
+
+            {/* <a className="text iconfont icon-xiazai" href={pdfUrl} /> */}
         </div>
     )
 }
