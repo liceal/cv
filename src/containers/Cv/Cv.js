@@ -58,7 +58,7 @@ class Cv extends Component {
         this.skills = [
             '一年在校项目实战经验',
             '有使用过elementUi,AntProUi开发经验',
-            '前端技术栈擅长Vue全家桶,Uniapp,微信小程序,Recat,擅长组件开发及构建优化',
+            '前端技术栈擅长Vue全家桶,Uniapp,微信小程序,Recat,擅长组件开发及构建优化,JS函数柯里化和闭包有一定了解',
             '后端了解Php,Nodejs',
             '不定时维护技术博客,能快速上手BS端开发'
         ]
