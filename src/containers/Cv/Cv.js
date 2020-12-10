@@ -62,6 +62,32 @@ class Cv extends Component {
             '前端工具：Less / Axios / Vuex / Vue-Router ',
             '基础使用：Python / Laravel / Django',
         ]
+        this.ex=`
+        督导管理系统（ 2019年3月 ~ 2019年8月 ）
+        - 开发环境：Vue+AngDesign+SpringBoot+MySql
+        - 负责大部分前端UI，数据交互，逻辑编写，有项目抗压经验
+        - 工作内容:
+          - 负责快速构建高质量页面
+          - 对接处理数据
+          - 分辨率调试及适配
+        - 解决难点:
+          - 角色权限，菜单权限
+          - 高度组件化、模块化形成界面统一风格
+          - 文件上传与下载
+          - 适配不同设备分辨率
+        
+        MES生产管控系统（2020-10 ~ 2020-12）
+        - 开发环境：Element-Admin，Echarts，SprintBoot，Mysql
+        - 工作内容：
+            - 使用Element-Admin系统模板开发后台数据管理系统，工位机系统，数据看板。
+            - 独立完成前端所有系统。
+        - 解决难点：
+            - 权限：在权限部分将一套系统分成后台管理系统和工位机系统，用户权限，菜单权限。
+            - 工位机：三个以上的弹窗数据交互，三个以上的层级数据处理。
+            - 组件：
+                - 表格表单，通过配置项配置：列名字，列验证，列类型(select,input,date,checkbox…)。
+                - 自定义样式表单，仿ant的pro-table 自定义列显示，筛选插槽，列排序筛选配置等。
+        `
         window.addEventListener('scroll', (event) => {
             let scrollTop = document.documentElement.scrollTop;  //滚动条滚动高度
             this.setState({ topShow: scrollTop >= 400 })
@@ -165,7 +191,7 @@ class Cv extends Component {
                     <section>
                         <h1>项目经验</h1>
                         <div className="boxes">
-                            <div className="box-line">
+                            {/* <div className="box-line">
                                 <div className="row">
                                     督导管理系统 （ 2019-03 ~ 2020-01 ）
                                 </div>
@@ -203,6 +229,10 @@ class Cv extends Component {
                                 <div className="row">
                                     - 适配不同设备分辨率
                                 </div>
+                            </div>
+                             */}
+                            <div className="box-line pre">
+                                {this.ex}
                             </div>
                         </div>
                     </section>
