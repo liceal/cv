@@ -30,7 +30,7 @@ class Top extends Component {
                 </div>
                 <div className="nav">
                     {this.state.navs.map((v, index) => (
-                        <Link to={v.url} key={v.name} className={this.state.active == index ? 'active' : ''}>{v.name}</Link>
+                        <Link to={v.url} key={v.name} className={this.state.active === index ? 'active' : ''}>{v.name}</Link>
                     ))}
                 </div>
             </div>

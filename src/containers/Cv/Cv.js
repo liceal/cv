@@ -32,10 +32,6 @@ function FixedButton(props) {
     )
 }
 
-function Tip() {
-    console.log('123');
-}
-
 /**
  * 简历
  */

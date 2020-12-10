@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.less';
-import { BrowserRouter,HashRouter, Switch, Route } from 'react-router-dom';
+import {HashRouter, Switch, Route } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 import routers from './routers/routers'
 import Footer from './components/Footer/Footer'
