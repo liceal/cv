@@ -56,11 +56,11 @@ class Cv extends Component {
             },
         ]
         this.skills = [
-            '一年在校项目实战经验',
-            '有使用过elementUi,AntProUi开发经验',
-            '前端技术栈擅长Vue全家桶,Uniapp,微信小程序,Recat,擅长组件开发及构建优化,JS函数柯里化和闭包有一定了解',
-            '后端了解Php,Nodejs',
-            '不定时维护技术博客,能快速上手BS端开发'
+            '熟练使用CSS，ES6，Vue全家桶',
+            'Web框架：Vue Cli 2.0-3.0 / uni-app / 微信小程序 / React',
+            'UI框架：Element-Ui / Ant-Design-Vue',
+            '前端工具：Less / Axios / Vuex / Vue-Router ',
+            '基础使用：Python / Laravel / Django',
         ]
         window.addEventListener('scroll', (event) => {
             let scrollTop = document.documentElement.scrollTop;  //滚动条滚动高度
