@@ -27,7 +27,7 @@ class Top extends Component {
         return (
             <div className="container">
                 <div className="header">
-                    <img className="img" src={require('@/static/wx_head.jpg')} alt="header" />
+                    <img className="img" src={require('@/static/head.jpg')} alt="header" />
                 </div>
                 <div className="text">
                     <p className="name">

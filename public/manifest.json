@@ -7,7 +7,7 @@
             "type": "image/x-icon"
         },
         {
-            "src": "wx_head.jpg",
+            "src": "head.jpg",
             "type": "image/jpg",
             "sizes": "192x192"
         }
