@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Header from '../../components/Header/Header'
 import Download from '../../components/DownLoad/DownLoad'
 import './Cv.less'
 
@@ -93,7 +92,7 @@ class Cv extends Component {
     render() {
         return (
             <div className="cv">
-                <Header active="0" />
+                
                 <main className="page">
                     <section>
                         <h1>个人信息</h1>
