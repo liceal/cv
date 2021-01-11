@@ -11,10 +11,16 @@ class Top extends Component {
         this.state = {
             active: props.active || -1,
             name: props.name || 'liceal',
-            navs: [{
-                url: '/',
-                name: '简历'
-            }]
+            navs: [
+                {
+                    url: '/',
+                    name: '简历'
+                },
+                // {
+                //     url: '/static-cv',
+                //     name: "静态简历"
+                // }
+            ]
         }
     }
     render() {
