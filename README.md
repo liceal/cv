@@ -10,6 +10,11 @@ npm run start
 
 访问：http://linxianao.com/cv/index.html#/
 
+## 介绍
+
+- 入门 react 时写的个人简历
+- react 入门新手易懂，很多功能待增加。
+
 ## 快速开始
 
 > npm i && npm run start
@@ -22,12 +27,13 @@ npm run start
 
 全局搜索`liceal` 替换成自己的名字
 
-## 介绍
+## 部署
 
-- 入门 react 时写的个人简历
-- react 入门新手易懂，很多功能待增加。
+> https://vercel.com/
+
+fork 项目到自己的 github，到 vercel 进行免费部署
 
 ## 其他
 
-- 欢迎访问个人网站http://linxianao.com/
-- 布局参考https://www.redspite.com/
+- 欢迎访问个人网站 [`http://linxianao.com/`](http://linxianao.com/)
+- 布局参考 [`https://www.redspite.com/`](https://www.redspite.com/)
