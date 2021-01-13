@@ -16,6 +16,11 @@ class Top extends Component {
                     url: '/',
                     name: '简历'
                 },
+                {
+                    url: "https://progressively-render.vercel.app/",
+                    blank: true,
+                    name: "动态简历"
+                }
                 // {
                 //     url: '/static-cv',
                 //     name: "静态简历"
@@ -35,9 +40,11 @@ class Top extends Component {
                     </p>
                 </div>
                 <div className="nav">
-                    {this.state.navs.map((v, index) => (
-                        <Link to={v.url} key={v.name} className={this.state.active === index ? 'active' : ''}>{v.name}</Link>
-                    ))}
+                    {this.state.navs.map((v, index) => {
+                        return v.blank ?
+                            <a href={v.url}>{v.name}</a> :
+                            <Link to={v.url} key={v.name} className={this.state.active === index ? 'active' : ''}>{v.name}</Link>
+                    })}
                 </div>
             </div>
         )
