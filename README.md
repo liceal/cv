@@ -19,11 +19,11 @@ npm run start
 
 > npm i && npm run start
 
-`static/CV.md` 渲染简历
+`src/static/CV.md` 渲染简历
 
 `wordCv.pdf` 提供下载的个人简历
 
-`static/head.jpg` 个人头像
+`src/static/head.jpg` 个人头像
 
 全局搜索`liceal` 替换成自己的名字
 
