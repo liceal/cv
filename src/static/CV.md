@@ -1,80 +1,77 @@
-# 联系方式
+<h1 style="text-align:center">个人简历</h1>
 
-- 手机：13250894776
-- Email：675024132@qq.com
-- QQ/微信号：675024132 / 13250894776
+## 👤 个人信息
 
-# 个人信息
+林贤澳/男/1999
 
-- 林贤澳 / 男 / 1999
-- 温州职业技术学院 / 软件技术
-- 个人网站：[http://linxianao.com](http://linxianao.com)
-- 技术博客： [https://liceal.github.io/](https://liceal.github.io/)
-- Github：[https://github.com/liceal](https://github.com/liceal)
-- 期望职位：Web 前端开发工程师
-- 期望薪资：税后月薪 7k~10k，特别喜欢的公司可例外
-- 期望城市：杭州，温州
+邮箱：[675024132@qq.com](mailto:675024132@qq.com)
 
-# 技能清单
+手机：13250894776
 
-- 熟练使用 CSS，ES6，Vue 全家桶
-- Web 框架：`Vue Cli 2.0-3.0` / `uni-app` / `微信小程序` / `React`
-- UI 框架：`Element-Ui` / `Ant-Design-Vue`
-- 前端工具：`Less` / `Axios` / `Vuex` / `Vue-Router`
-- 基础使用：`Python` / `Laravel` / `Django`
+个人网站：[http://linxianao.com](http://linxianao.com/)
 
-# 工作经验
+技术博客：https://liceal.github.io/
 
-## 易思网络科技有限公司 （ 2019 年 3 月 ~ 2020 年 1 月 ）
+## 🧾 技能清单
 
-### 督导管理系统（2019 年 3 月 ~ 2019 年 8 月）
+- 编程语言：`HTML` / `CSS` / `Javascript` / `Python`
+- 开发框架：`Vue.js` / `React.js` / `Django`
+- 第三方库：`Less` / `Sass` / `element-ui` / `ant-design-vue` / `vxe-table` / `moment` / `lodash` / `vuex` / `vue-router`
+- 集成开发环境：`VScode` / `IDEA`
+- 其他：git/uni-app/微信小程序/nginx/grafana/laravel/java/
 
-> 管理教师考勤，打分，分派任务与接受任务的后台管理系统。
+## 💼 工作经历
 
-- **开发环境**：`Vue`+`AngDesign`+`SpringBoot`+`MySql`
-- 负责大部分前端 UI，数据交互，逻辑编写
+<h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 
-- **工作内容:**
+<h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 
-  - 使用 Vue + Axios + antDesignVue 开发后台管理系统
-  - 负责快速构建高质量页面、对接处理数据、自适应
+**技术栈**
 
-- **解决难点:**
-  - 多用户角色：不同角色对应不同权限
-  - 优化用户体验：高度组件化、模块化形成界面统一风格
-  - 业务流程：附件上传下载
-  - 逻辑处理：复杂表单验证，设置自动生成配置，部门结构树，打分系统
-  - 组件开发：高级选项组件，评分详情卡片
+`element-admin`  / `ant-design-vue` / `spring-boot` / `mysql`
 
-## 浙江心思智能科技有限公司（2020-04 ~ 至今）
+**项目描述**
 
-### MES 生产管控系统（2020-10 ~ 2020-12）
+管理教师考勤，听课打分，教务处分派听课教师，教师任务管理，课堂打分与评价等功能。
 
-> 为工厂快速开发出 MES 生产管控系统，生产监控，生产模块，设备管理，模具管理，质检管理，仓存管理，基础资料，系统设置，工作台。工位机报工，巡检，首末件，不良品，换模，来料检验。
+**工作职责**
 
-- **开发环境**：`Element-Admin`，`Echarts`，`SprintBoot`，`Mysql`
-- **工作内容**：
-  - 使用 element-admin-template + echarts + axios + moment 等技术。
-  - 负责快速构建后台数据管理系统，工位机系统，数据看板。
-- **解决难点**：
-  - 权限划分：在权限部分将一套系统分成后台管理系统和工位机系统，用户权限，菜单权限。
-  - 复杂业务流程：三个以上的弹窗数据交互，复杂数据处理与渲染。
-  - 组件开发：
-    - 表格表单，通过配置项配置：列名字，列验证，列类型(select,input,date,checkbox…)。
-    - 自定义样式表单，仿 ant 的 pro-table 自定义列显示，筛选插槽，列排序筛选配置等。
+- 基于element-admin，负责前端全部组件封装功能编写和UI设计
+- 编写多用户权限，复杂表单验证，设置自动生成配置，部门结构树，打分系统，高级选项组件，评分详情卡片等模块
+- 完成所有模块，打包发布
 
-# 奖励荣誉
+<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
 
-学术类：国家励志奖学金(1 次)、班级一等奖(2 次)
-实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等。
-技能证书：PAT 乙级，二级 C
+<h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.10-2020.12</span>
+
+**技术栈**
+
+`element-admin` / `echarts` / `sprint-boot` / `mysql` 
+
+**项目描述**
+
+为工厂快速开发出 MES 生产管控系统，包含：生产监控，生产模块，设备管理，模具管理，质检管理，仓存管理，基础资料，系统设置，工作台。工位机报工，巡检，首末件，不良品，换模，来料检验。
+
+**工作职责**
+
+- 在有限的时间内快速从零开始构建MES系统
+- 用权限控制将一套系统分成后台管理系统，工位机系统，单据生成系统，数据看版。
+- 大数据处理，使用深搜广搜等算法进行数据计算和渲染。
+- 开发表单解决方案
+  - 实现配置列显示，列名字，列宽，列权限查看，列类型(select,input,date,checkbox…)
+  - 自定义样式表单，仿 ant 的 pro-table 自定义列显示，筛选插槽，列排序筛选配置等
+
+## 🏆 奖励荣誉
+
+学术类：国家励志奖学金(1 次)、班级一等奖(2 次) 实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等。 技能证书：PAT 乙级，二级 C
 
 <hr style="display: block;
     width: 14%;
     margin: 0px auto;
     border: 0 none;
-    border-top: 3px solid #dededc;"/>
+    border-top: 3px solid #dededc;">
 
-# 致谢
+## 🤝 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事
+
