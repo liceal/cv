@@ -1,4 +1,4 @@
-<h1 style="text-align:center;border-bottom:1px solid #ccc">个人简历</h1>
+<h1 style="text-align:center;">个人简历</h1>
 
 ## 👤 个人信息
 
@@ -81,13 +81,13 @@
 
 热爱编程，喜欢创新，追求代码简洁易读。熟练使用 Google 等搜索引擎独立解决问题，热爱技术社区，V2EX、掘金、知乎等。
 
-
-## 🤝 致谢
-
-感谢您花时间阅读我的简历，期待能有机会和您共事
-
 <hr style="display: block;
     width: 14%;
     margin: 0px auto;
     border: 0 none;
     border-top: 3px solid #dededc;">
+
+🤝 致谢
+
+感谢您花时间阅读我的简历，期待能有机会和您共事
+
