@@ -1,4 +1,4 @@
-<h1 style="text-align:center">个人简历</h1>
+<h1 style="text-align:center;border-bottom:1px solid #ccc">个人简历</h1>
 
 ## 👤 个人信息
 
@@ -22,9 +22,13 @@
 
 ## 💼 工作经历
 
+<div style="position:relative">
 <h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
+</div>
 
+<div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
+</div>
 
 **技术栈**
 
@@ -40,9 +44,13 @@
 - 编写多用户权限，复杂表单验证，设置自动生成配置，部门结构树，打分系统，高级选项组件，评分详情卡片等模块
 - 完成所有模块，打包发布
 
+<div style="position:relative">
 <h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
+</div>
 
+<div style="position:relative">
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.10-2020.12</span>
+</div>
 
 **技术栈**
 
