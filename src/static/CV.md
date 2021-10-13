@@ -26,9 +26,11 @@
 <h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
 
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
+
 
 **技术栈**
 
@@ -48,9 +50,11 @@
 <h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
 </div>
 
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.10-2020.12</span>
 </div>
+
 
 **技术栈**
 
@@ -73,13 +77,17 @@
 
 学术类：国家励志奖学金(1 次)、班级一等奖(2 次) 实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等。 技能证书：PAT 乙级，二级 C
 
-<hr style="display: block;
-    width: 14%;
-    margin: 0px auto;
-    border: 0 none;
-    border-top: 3px solid #dededc;">
+## 😃个人评价
+
+热爱编程，喜欢创新，追求代码简洁易读。熟练使用 Google 等搜索引擎独立解决问题，热爱技术社区，V2EX、掘金、知乎等。
+
 
 ## 🤝 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事
 
+<hr style="display: block;
+    width: 14%;
+    margin: 0px auto;
+    border: 0 none;
+    border-top: 3px solid #dededc;">
