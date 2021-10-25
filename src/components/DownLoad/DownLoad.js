@@ -7,7 +7,7 @@ class DownLoad extends PureComponent {
     this.downLoadUrl = this.downLoadUrl.bind(this);
   }
   downLoadUrl() {
-    window.open(require('@/static/wordCv.pdf'))
+    window.open(require('@/static/cv.pdf'))
   }
   render() {
 
