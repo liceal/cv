@@ -14,11 +14,10 @@
 
 ## 🧾 技能清单
 
-- 编程语言：`HTML` / `CSS` / `Javascript` / `Python`
 - 开发框架：`Vue.js` / `React.js` / `Django`
 - 第三方库：`element-ui` / `vxe-table` / `ant-design-vue`
-- 集成开发环境：`VScode` / `IDEA`
 - 其他：git / mithril / nginx / uni-app / 微信小程序 / grafana / docker / jenkins / laravel / java
+> 熟悉动态表格表单和校验，基于element自写组件库，有对大屏可视化的处理方案，有MES，ERP，财务软件开发经验，有MES专案开发经验。
 
 ## 💼 工作经历
 
@@ -123,6 +122,6 @@
     border: 0 none;
     border-top: 3px solid #dededc;">
 
-🤝 致谢
+## 🤝 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
