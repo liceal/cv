@@ -14,9 +14,9 @@
 
 ## 🧾 技能清单
 
-- 开发框架：`Vue.js` / `React.js` / `Django`
+- 开发框架：`Vue.js` / `React.js`
 - 第三方库：`element-ui` / `vxe-table` / `ant-design-vue`
-- 其他：git / mithril / nginx / uni-app / 微信小程序 / grafana / docker / jenkins / laravel / java
+- 其他：git / mithril / nginx / uni-app / 微信小程序 / grafana / docker / jenkins
 > 熟悉动态表格表单和校验，基于element自写组件库，有对大屏可视化的处理方案，有MES，ERP，财务软件开发经验，有MES专案开发经验。
 
 ## 💼 工作经历
@@ -31,7 +31,7 @@
 
 **技术栈**
 
-`vue-antd-admin` / `spring-boot` / `mysql`
+`vue-antd-admin`
 
 **项目描述**
 
@@ -39,7 +39,7 @@
 
 **工作职责**
 
-- 基于`ant-deisgn-vue`，负责前端全部组件封装功能编写和 UI 设计
+- 基于 *ant-deisgn-vue* ，负责前端全部组件封装功能编写和 UI 设计
 - 编写多用户权限，复杂表单验证，设置自动生成配置，部门结构树，打分系统，高级选项组件，评分详情卡片等模块
 - 完成所有模块，打包发布
 
@@ -53,7 +53,7 @@
 
 **技术栈**
 
-`element-admin` / `echarts` / `sprint-boot` / `mysql`
+`element-admin` / `echarts`
 
 **项目描述**
 
@@ -66,7 +66,7 @@
 - 大数据处理，使用深搜广搜等算法进行数据计算和渲染。
 - 开发表单解决方案
   - 实现配置列显示，列名字，列宽，列权限查看，列类型(select,input,date,checkbox…)
-  - 自定义样式表单，仿 ant 的 pro-table 自定义列显示，筛选插槽，列排序筛选配置等
+  - 自定义样式表单，仿 *ant* 的 *pro-table* 自定义列显示，筛选插槽，列排序筛选配置等
 - 完成所有模块，打包发布
 
 <div style="position:relative">
@@ -75,7 +75,7 @@
 
 **技术栈**
 
-`element-admin` / `echarts` / `bootstrap` / `grafana` / `django` / `mysql`
+`element-admin` / `echarts` / `bootstrap`
 
 **项目描述**
 
@@ -86,7 +86,7 @@
 - 参与项目开发，完成分派的任务
 - 首页开发、功能业务单据开发
 - 常用组件封装，例如快速查询边栏，表单解决方案等
-- 大数据看板 grafana 完成部分模块与调试
+- 大数据看板 *grafana* 完成部分模块与调试
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-至今</span>
@@ -94,7 +94,7 @@
 
 **技术栈**
 
-`element-admin` / `vxe-table` / `i18n` / `django` / `mysql`
+`element-admin` / `vxe-table` / `i18n`
 
 **项目描述**
 
@@ -105,12 +105,12 @@
 - 负责完成凭证，发票，资金流水，固定资产，工资等。
 - `vxe-table` 渲染器封装，例会计科目联动自定义辅助渲染器等。
 - 记账凭证仿金蝶云和柠檬云的凭证实现所有功能。
-- 优化代码，保持单文件 800 行代码以内的规范。
+- 优化代码，封装组件。
 - 使用插件快速增加国际化，包含台语、英语、汉语。
 
 ## 🏆 奖励荣誉
 
-学术类：国家励志奖学金(1 次)、班级一等奖(2 次) 实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等。 技能证书：PAT 乙级，二级 C
+学术类：国家励志奖学金(1 次)、班级一等奖(2 次) 实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等奖。 技能证书：PAT 乙级，二级 C
 
 ## 😃 个人评价
 
