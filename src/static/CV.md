@@ -90,7 +90,7 @@
 - 大数据看板 _grafana_ 完成部分模块与调试
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2020.1</span>
+<h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
 </div>
 
 **技术栈**
