@@ -16,7 +16,7 @@
 
 - 开发框架：`Vue.js` / `React.js`
 - 第三方库：`element-ui` / `vxe-table` / `ant-design-vue`
-- 其他：git / mithril / nginx / uni-app / 微信小程序 / grafana / docker / jenkins
+- 其他：git / mithril / nginx / uni-app / 微信小程序 / grafana / svelte / docker / jenkins
 > 熟悉动态表格表单和校验，基于element自写组件库，有对大屏可视化的处理方案，有MES，ERP，财务软件开发经验，有MES专案开发经验。
 
 ## 💼 工作经历
