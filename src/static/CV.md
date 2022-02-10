@@ -23,30 +23,47 @@
 ## 💼 工作经历
 
 <div style="position:relative">
-<h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
+<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
 </div>
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
+<h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
 </div>
 
 **技术栈**
 
-`vue-antd-admin` / `ant-deisign-vue`
+`element-admin` / `element-ui` / `vxe-table` / `i18n`
 
 **项目描述**
 
-管理教师考勤，听课打分，教务处分派听课教师，教师任务管理，课堂打分与评价等功能。
+产品开发，完成传统财税系统，基于我司现有产品上增加财税系统
 
 **工作职责**
 
-- 基于 _ant-deisgn-vue_ ，负责前端全部组件封装功能编写和 UI 设计
-- 编写多用户权限，复杂表单验证，设置自动生成配置，部门结构树，打分系统，高级选项组件，评分详情卡片等模块
-- 完成所有模块，打包发布
+- 负责完成凭证，发票，资金流水，固定资产，工资等。
+- _vxe-table_ 渲染器封装，例会计科目联动自定义辅助渲染器等。
+- 记账凭证仿金蝶云和柠檬云的凭证实现所有功能。
+- 优化代码，封装组件。
+- 使用插件快速增加国际化，包含台语、英语、汉语。
 
 <div style="position:relative">
-<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
+<h4 style="text-align:center">🌟永嘉县限额工程智慧监管系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.1-2021.7</span>
 </div>
+
+**技术栈**
+
+`element-admin` / `element-ui` / `echarts` / `bootstrap`
+
+**项目描述**
+
+永嘉县级工程项目，项目发包，房屋建筑、交通、市政基础设施等建设施工项目等发布、交易和监管。
+
+**工作职责**
+
+- 参与项目开发，完成分派的任务
+- 首页开发、功能业务单据开发
+- 常用组件封装，例如首页数据统计，快速查询边栏，表单解决方案等
+- 大数据看板 _grafana_ 完成部分模块与调试
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.10-2020.12</span>
@@ -71,43 +88,26 @@
 - 完成所有模块，打包发布
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟永嘉县限额工程智慧监管系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.1-2021.7</span>
+<h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
-
-**技术栈**
-
-`element-admin` / `element-ui` / `echarts` / `bootstrap`
-
-**项目描述**
-
-永嘉县级工程项目，项目发包，房屋建筑、交通、市政基础设施等建设施工项目等发布、交易和监管。
-
-**工作职责**
-
-- 参与项目开发，完成分派的任务
-- 首页开发、功能业务单据开发
-- 常用组件封装，例如首页数据统计，快速查询边栏，表单解决方案等
-- 大数据看板 _grafana_ 完成部分模块与调试
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
+<h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
 
 **技术栈**
 
-`element-admin` / `element-ui` / `vxe-table` / `i18n`
+`vue-antd-admin` / `ant-deisign-vue`
 
 **项目描述**
 
-产品开发，完成传统财税系统，基于我司现有产品上增加财税系统
+管理教师考勤，听课打分，教务处分派听课教师，教师任务管理，课堂打分与评价等功能。
 
 **工作职责**
 
-- 负责完成凭证，发票，资金流水，固定资产，工资等。
-- _vxe-table_ 渲染器封装，例会计科目联动自定义辅助渲染器等。
-- 记账凭证仿金蝶云和柠檬云的凭证实现所有功能。
-- 优化代码，封装组件。
-- 使用插件快速增加国际化，包含台语、英语、汉语。
+- 基于 _ant-deisgn-vue_ ，负责前端全部组件封装功能编写和 UI 设计
+- 编写多用户权限，复杂表单验证，设置自动生成配置，部门结构树，打分系统，高级选项组件，评分详情卡片等模块
+- 完成所有模块，打包发布
 
 ## 🏆 奖励荣誉
 
