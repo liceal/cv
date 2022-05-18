@@ -23,8 +23,31 @@
 ## 💼 工作经历
 
 <div style="position:relative">
-<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-至今</span>
+<h3 style="text-align:center">杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-至今</span>
 </div>
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-至今</span>
+</div>
+
+**技术栈**
+
+`element-admin` / `vxe-table` 
+
+**项目描述**
+
+接手快鱼供应链管理项目，在原有基础上增加功能模块，测试和发布。
+
+**工作职责**
+
+- 负责接手供应商管理项目，带新加入同事熟悉项目开发流程，分支管理等。
+- 基于原有的单据页面增加业务单据，功能模块，修复遗留问题。
+- 根据新需求更改组件和编写组件。
+
+<div style="position:relative">
+<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
+</div>
+
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
@@ -50,6 +73,7 @@
 <h4 style="text-align:center">🌟永嘉县限额工程智慧监管系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.1-2021.7</span>
 </div>
 
+
 **技术栈**
 
 `element-admin` / `element-ui` / `echarts` / `bootstrap`
@@ -68,6 +92,7 @@
 <div style="position:relative">
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.10-2020.12</span>
 </div>
+
 
 **技术栈**
 
@@ -93,9 +118,11 @@
 <h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
 
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
+
 
 **技术栈**
 
@@ -124,6 +151,7 @@
     margin: 0px auto;
     border: 0 none;
     border-top: 3px solid #dededc;">
+
 
 ## 🤝 致谢
 
