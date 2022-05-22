@@ -4,7 +4,7 @@
 
 林贤澳/男/1999
 
-邮箱：[liceal@qq.com](mailto:liceal@qq.com)
+邮箱：[lxaliceal@gmail.com](mailto:lxaliceal@gmail.com)
 
 手机：13250894776
 
