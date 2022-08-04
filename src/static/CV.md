@@ -16,27 +16,84 @@
 
 - 开发框架：`Vue.js` / `React.js`
 - 第三方库：`vue-element-ui` / `vxe-table` / `ant-design-vue`
-- 其他：git / mithril / nginx / uni-app / 微信小程序 / svelte /grafana / docker / jenkins
+- 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native
 
 > 熟悉动态表格表单和校验，基于 element 自写组件库，有对大屏可视化的处理方案，有 MES，ERP，财务软件开发经验，有 MES 专案开发经验，有独立项目开发经验，有自定义报表、看板开发经验。
 
 ## 💼 工作经历
 
 <div style="position:relative">
-<h3 style="text-align:center">杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-至今</span>
+<h3 style="text-align:center">杭州澍脉科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
 </div>
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-至今</span>
+<h4 style="text-align:center">🌟SCRM客户关系管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+</div>
+**技术栈**
+
+`vue-element-admin` / `php`
+
+**项目描述**
+
+已经上线系统，做整体项目优化
+
+**工作职责**
+
+- 封装功能组件
+- 增加 eslint,stylelint 规范
+- 优化项目自适应
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟澍脉SCRM官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
 </div>
 
 **技术栈**
 
-`vue-element-admin` / `vxe-table` 
+`vue3` / `element-plus` / `typeit` / `wowjs` / `animate.css`
 
 **项目描述**
 
-​		接手快鱼供应链管理项目，在原有基础上增加功能模块，测试和发布。
+公司官网
+
+**工作职责**
+
+- 基于 vue3，使用 element-plus 从零开发官网
+- 电脑端移动端适配
+- 包含动效：wowjs,typeit
+- 使用 docker 构建，服务器增加 jenkins 配合 githooks 实现监听部署
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟陪聊APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+</div>
+
+**技术栈**
+
+`react-native` / `simple-peer` / `webrtc` / `socket.io`
+
+**项目描述**
+
+陪聊软件，多对多视频或者语音聊天，在线小游戏，对指定用户充值打赏。
+
+**工作职责**
+
+- 使用 react-native 从零开发
+- 使用 simple-peer 和 socket.io 进行 p2p 流传输
+- 聊天室打赏功能
+
+<div style="position:relative">
+<h3 style="text-align:center">杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
+</div>
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
+</div>
+
+**技术栈**
+
+`vue-element-admin` / `vxe-table`
+
+**项目描述**
+接手快鱼供应链管理项目，在原有基础上增加功能模块，测试和发布。
 
 **工作职责**
 
@@ -47,7 +104,6 @@
 <div style="position:relative">
 <h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
 </div>
-
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
@@ -73,7 +129,6 @@
 <h4 style="text-align:center">🌟永嘉县限额工程智慧监管系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.1-2021.7</span>
 </div>
 
-
 **技术栈**
 
 `vue-element-admin` / `echarts` / `bootstrap`
@@ -93,10 +148,9 @@
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.9-2021.1</span>
 </div>
 
-
 **技术栈**
 
-`vue-element-admin` / `echarts` 
+`vue-element-admin` / `echarts`
 
 **项目描述**
 
@@ -110,23 +164,21 @@
 - 用权限控制将一套系统分成后台管理系统，工位机系统，报表生成系统，数据看版。
 - 大数据处理，使用深搜广搜等算法进行数据计算和渲染。
 - 基于`element-ui`封装高级表格表单
-  - 表格支持JSON配置，云存储，列名字，列宽，列权限查看等，可拖拽，支持 jsx 渲染，提供内置渲染器。
-  - 表单支持JSON配置，云存储，支持jsx渲染，提供内置渲染器。
+  - 表格支持 JSON 配置，云存储，列名字，列宽，列权限查看等，可拖拽，支持 jsx 渲染，提供内置渲染器。
+  - 表单支持 JSON 配置，云存储，支持 jsx 渲染，提供内置渲染器。
 - 完成所有模块，打包发布。
 
 <div style="position:relative">
 <h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
 
-
 <div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
 
-
 **技术栈**
 
-`vue-antd-admin` / `echarts` 
+`vue-antd-admin` / `echarts`
 
 **项目描述**
 
@@ -144,14 +196,13 @@
 
 ## 😃 个人评价
 
-热爱编程，喜欢创新，追求代码简洁易读。熟练使用 Google 等搜索引擎独立解决问题，热爱技术社区，V2EX、HackerNews等。
+热爱编程，喜欢创新，追求代码简洁易读。熟练使用 Google 等搜索引擎独立解决问题，热爱技术社区，V2EX、HackerNews 等。
 
 <hr style="display: block;
     width: 14%;
     margin: 0px auto;
     border: 0 none;
     border-top: 3px solid #dededc;">
-
 
 ## 🤝 致谢
 
