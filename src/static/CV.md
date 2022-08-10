@@ -88,11 +88,13 @@
 <div style="position:relative">
 <h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
+
 **技术栈**
 
 `vue-element-admin` / `vxe-table`
 
 **项目描述**
+
 接手快鱼供应链管理项目，在原有基础上增加功能模块，测试和发布。
 
 **工作职责**
@@ -110,6 +112,7 @@
 `react` / `mobx`
 
 **项目描述**
+
 供应链管理系统，管理物料供应链，成品加工以及成本管控
 
 **工作职责**
