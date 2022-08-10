@@ -2,7 +2,7 @@
 
 ## 👤 个人信息
 
-林贤澳/男/1999
+林贤澳/男/1997
 
 邮箱：[lxaliceal@gmail.com](mailto:lxaliceal@gmail.com)
 
@@ -196,11 +196,11 @@
 
 **技术栈**
 
-`vue-antd-admin` / `echarts`
+`vue-antd-admin` / `echarts` / `bootstrap `
 
 **项目描述**
 
-管理教师考勤，听课打分，教务处分派听课教师，教师任务管理，课堂打分与评价等功能。
+管理教师考勤，听课打分，教师排课可视化，教师任务管理，课堂打分与评价等。
 
 **工作职责**
 
