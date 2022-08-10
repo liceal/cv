@@ -88,7 +88,6 @@
 <div style="position:relative">
 <h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
-
 **技术栈**
 
 `vue-element-admin` / `vxe-table`
@@ -101,6 +100,21 @@
 - 负责接手供应商管理项目，带新加入同事熟悉项目开发流程，开发规范，分支管理。
 - 基于原有的单据页面增加业务单据，功能模块，修复遗留问题。
 - 根据新需求更改组件和编写组件。
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟SCM供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
+</div>
+
+**技术栈**
+
+`react` / `mobx`
+
+**项目描述**
+供应链管理系统，管理物料供应链，成品加工以及成本管控
+
+**工作职责**
+
+- 参与编写部分模块和页面
 
 <div style="position:relative">
 <h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
