@@ -18,7 +18,7 @@
 - UI：`element-ui` / `vxe-table` / `ant-design-vue`
 - 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native / koa / tauri / taro
 
-> 熟练运用Vue，有丰富的管理系统开发经验，擅长组件封装和项目整体框架构建，主要以独立开发为主。了解低代码开发，工作使用过grafana,葡萄城。了解移动端开发，如小程序、uniapp、expo、taro。
+> 熟练运用 Vue，有丰富的管理系统开发经验，擅长组件封装和项目整体框架构建，主要以独立开发为主。了解低代码开发，工作使用过 grafana,葡萄城。了解移动端开发，如小程序、uniapp、expo、taro。
 
 ## 💼 工作经历
 
@@ -32,19 +32,19 @@
 
 **技术栈**
 
-`Vue3` / `Element-Plus` / `Tailwindcss` / `PWA` 
+`Vue3` / `Element-Plus` / `Tailwindcss` / `PWA`
 
 **项目描述**
 
-前端独立开发，基于SCUI开发跨境ERP系统，迭代V1，V2版本，已上线，目前处于维护阶段。
+前端独立开发，基于 SCUI 开发跨境 ERP 系统，迭代 V1，V2 版本，已上线，目前处于维护阶段。
 
 **工作职责**
 
-- 从0到1开发并且维护系统。
+- 从 0 到 1 开发并且维护系统。
 - 封装组件，让项目开发过程基本使用配置项完成。
 - 重构页面布局，提高用户体验。
-- PWA集成。
-- Tauri继承(未投入生产)。
+- PWA 集成。
+- Tauri 继承(未投入生产)。
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟君梦官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.2-2023-3</span>
@@ -61,7 +61,7 @@
 **工作职责**
 
 - 迅速构建官方网站，注重细节动画和用户体验。
-- 中台登录功能，根据不同机构登录OMS客户端管理端。
+- 中台登录功能，根据不同机构登录 OMS 客户端管理端。
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟PDA仓库扫码入库APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.5-2023-6</span>
@@ -73,11 +73,11 @@
 
 **项目描述**
 
-PDA扫码枪使用的安卓APP 对仓库物料进行扫码入库
+PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 
 **工作职责**
 
-- 迅速开发APP应用投入生产使用
+- 迅速开发 APP 应用投入生产使用
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟商城小程序</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.3-2023-6</span>
@@ -117,7 +117,6 @@ PDA扫码枪使用的安卓APP 对仓库物料进行扫码入库
 <div style="position:relative">
 <h3 style="text-align:center">🏢杭州澍脉科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
-
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟SCRM客户关系管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
@@ -178,7 +177,6 @@ PDA扫码枪使用的安卓APP 对仓库物料进行扫码入库
 <h3 style="text-align:center">🏢杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
 
-
 <div style="position:relative">
 <h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
@@ -216,7 +214,6 @@ PDA扫码枪使用的安卓APP 对仓库物料进行扫码入库
 <div style="position:relative">
 <h3 style="text-align:center">🏢浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
 </div>
-
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
