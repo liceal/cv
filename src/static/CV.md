@@ -14,20 +14,113 @@
 
 ## 🧾 技能清单
 
-- 开发框架：`Vue.js` / `React.js`
-- 第三方库：`vue-element-ui` / `vxe-table` / `ant-design-vue`
-- 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native
+- 开发框架：`Vue` / `React`
+- UI：`element-ui` / `vxe-table` / `ant-design-vue`
+- 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native / koa / tauri / taro
 
-> 熟悉动态表格表单和校验，基于 element 自写组件库，有对大屏可视化的处理方案，有 MES，ERP，财务软件开发经验，有 MES 专案开发经验，有独立项目开发经验，有自定义报表、看板开发经验。
+> 熟练运用Vue，有丰富的管理系统开发经验，擅长组件封装和项目整体框架构建，主要以独立开发为主。了解低代码开发，工作使用过grafana,葡萄城。了解移动端开发，如小程序、uniapp、expo、taro。
 
 ## 💼 工作经历
 
 <div style="position:relative">
-<h3 style="text-align:center">杭州澍脉科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+<h3 style="text-align:center">🏢杭州君梦供应链有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.9-至今</span>
 </div>
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟SCRM客户关系管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+<h4 style="text-align:center">🌟君梦跨境ERP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.9-至今</span>
+</div>
+
+**技术栈**
+
+`Vue3` / `Element-Plus` / `Tailwindcss` / `PWA` 
+
+**项目描述**
+
+前端独立开发，基于SCUI开发跨境ERP系统，迭代V1，V2版本，已上线，目前处于维护阶段。
+
+**工作职责**
+
+- 从0到1开发并且维护系统。
+- 封装组件，让项目开发过程基本使用配置项完成。
+- 重构页面布局，提高用户体验。
+- PWA集成。
+- Tauri继承(未投入生产)。
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟君梦官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.2-2023-3</span>
+</div>
+
+**技术栈**
+
+`Element-Plus` / `Tailwindcss` / `Nuxt3` / `animatecss`
+
+**项目描述**
+
+官网宣传，中台登录，根据不同的机构登录到系统
+
+**工作职责**
+
+- 迅速构建官方网站，注重细节动画和用户体验。
+- 中台登录功能，根据不同机构登录OMS客户端管理端。
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟PDA仓库扫码入库APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.5-2023-6</span>
+</div>
+
+**技术栈**
+
+`React-native` / `Expo` / `mobx`
+
+**项目描述**
+
+PDA扫码枪使用的安卓APP 对仓库物料进行扫码入库
+
+**工作职责**
+
+- 迅速开发APP应用投入生产使用
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟商城小程序</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.3-2023-6</span>
+</div>
+
+**技术栈**
+
+`vant ui` / `微信小程序原生`
+
+**项目描述**
+
+从零开发完整的商城小程序
+
+**工作职责**
+
+- 独立开发商城小程序，完成所有功能。
+- 首页可自定义配置，模块的大小、位置、渲染器(图片，商品)
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟CRMEB商城</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2024.4-2024-7</span>
+</div>
+
+**技术栈**
+
+`vant ui` / `uniapp` / `vue` /`element-ui` `
+
+**项目描述**
+
+升级系统，保税商城增加跨境商品业务
+
+**工作职责**
+
+- 基于原来增加跨境商品业务
+- 对接连连支付
+- 对接需求，修复问题，优化系统
+
+<div style="position:relative">
+<h3 style="text-align:center">🏢杭州澍脉科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
+</div>
+
+
+<div style="position:relative">
+<h4 style="text-align:center">🌟SCRM客户关系管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
 
 **技术栈**
@@ -45,7 +138,7 @@
 - 优化项目自适应
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟澍脉SCRM官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+<h4 style="text-align:center">🌟澍脉SCRM官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
 
 **技术栈**
@@ -64,7 +157,7 @@
 - 使用 docker 构建，服务器增加 jenkins 配合 githooks 实现监听部署
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟陪聊APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-至今</span>
+<h4 style="text-align:center">🌟陪聊APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
 
 **技术栈**
@@ -82,8 +175,9 @@
 - 聊天室打赏功能
 
 <div style="position:relative">
-<h3 style="text-align:center">杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
+<h3 style="text-align:center">🏢杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
+
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
@@ -120,8 +214,9 @@
 - 参与编写部分模块和页面
 
 <div style="position:relative">
-<h3 style="text-align:center">浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
+<h3 style="text-align:center">🏢浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
 </div>
+
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
@@ -187,13 +282,12 @@
 - 完成所有模块，打包发布。
 
 <div style="position:relative">
-<h3 style="text-align:center">易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
+<h3 style="text-align:center">🏢易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
-
 **技术栈**
 
 `vue-antd-admin` / `echarts` / `bootstrap `
