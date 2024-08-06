@@ -1,4 +1,4 @@
-import React, { Component, useState } from 'react'
+import React, { Component } from 'react'
 import Download from '../../components/DownLoad/DownLoad'
 import marked from 'marked'
 import hljs from 'highlight.js'
@@ -45,9 +45,11 @@ class markdownCv extends Component {
     }
 
     // 读取静态资源文本内容
-    fetch('https://raw.githubusercontent.com/liceal/cv/master/src/static/CV.md', {
-      method: "get"
-    })
+    fetch(
+      require('@/static/CV.md'),
+      {
+        method: "get"
+      })
       .then((res) => res.text())
       .then((data) => {
         this.setState({ cv: data })
