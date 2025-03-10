@@ -2,7 +2,7 @@
 
 ## 👤 个人信息
 
-林贤澳/男/1997
+林贤澳/男/1999
 
 邮箱：[lxaliceal@gmail.com](mailto:lxaliceal@gmail.com)
 
@@ -16,9 +16,9 @@
 
 - 开发框架：`Vue` / `React`
 - UI：`element-ui` / `vxe-table` / `ant-design-vue`
-- 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native / koa / tauri / taro
+- 其他：git / mithril / nginx / uni-app / wechat-applet / svelte /grafana / docker / jenkins / webrtc / react-native / koa / tauri / taro / expo
 
-> 熟练运用 Vue，有丰富的管理系统开发经验，擅长组件封装和项目整体框架构建，主要以独立开发为主。了解低代码开发，工作使用过 grafana,葡萄城。了解移动端开发，如小程序、uniapp、expo、taro。
+> 熟练运用 Vue，有丰富的管理系统开发经验，擅长组件封装和项目整体框架构建，独立开发为主。了解低代码开发，工作使用过 grafana，葡萄城。熟悉移动端开发，如小程序、uniapp、expo、taro。
 
 ## 💼 工作经历
 
@@ -26,17 +26,20 @@
 <h3 style="text-align:center">🏢杭州君梦供应链有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.9-至今</span>
 </div>
 
+> 独立负责前端项目，包括OMS系统 小程序 官网等，小程序低代码开发。
+
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟君梦跨境ERP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.9-至今</span>
 </div>
 
 **技术栈**
 
-`Vue3` / `Element-Plus` / `Tailwindcss` / `PWA`
+`Vue3` / `Element-Plus` / `Tailwindcss` / `PWA` / `Tauri`
 
 **项目描述**
 
-前端独立开发，基于 SCUI 开发跨境 ERP 系统，迭代 V1，V2 版本，已上线，目前处于维护阶段。
+前端独立开发，基于 SCUI 开发跨境 ERP 系统，迭代 V1，V2 版本，已上线。
 
 **工作职责**
 
@@ -44,11 +47,12 @@
 - 封装组件，让项目开发过程基本使用配置项完成。
 - 重构页面布局，提高用户体验。
 - PWA 集成。
-- Tauri 继承(未投入生产)。
+- Tauri 继承。
 
 <div style="position:relative">
 <h4 style="text-align:center">🌟君梦官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.2-2023-3</span>
 </div>
+
 
 **技术栈**
 
@@ -67,6 +71,7 @@
 <h4 style="text-align:center">🌟PDA仓库扫码入库APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.5-2023-6</span>
 </div>
 
+
 **技术栈**
 
 `React-native` / `Expo` / `mobx`
@@ -83,6 +88,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h4 style="text-align:center">🌟商城小程序</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2023.3-2023-6</span>
 </div>
 
+
 **技术栈**
 
 `vant ui` / `微信小程序原生`
@@ -97,8 +103,9 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 - 首页可自定义配置，模块的大小、位置、渲染器(图片，商品)
 
 <div style="position:relative">
-<h4 style="text-align:center">🌟CRMEB商城</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2024.4-2024-7</span>
+<h4 style="text-align:center">🌟CRMEB</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2024.4-2024-7</span>
 </div>
+
 
 **技术栈**
 
@@ -106,7 +113,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 
 **项目描述**
 
-升级系统，保税商城增加跨境商品业务
+升级系统，保税商城增加跨境商品业务，二开改造。
 
 **工作职责**
 
@@ -118,9 +125,13 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h3 style="text-align:center">🏢杭州澍脉科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
 
+> 负责前端所有项目，主营SCRM项目体系开发。
+
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟SCRM客户关系管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
+
 
 **技术栈**
 
@@ -139,6 +150,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <div style="position:relative">
 <h4 style="text-align:center">🌟澍脉SCRM官网</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
+
 
 **技术栈**
 
@@ -159,6 +171,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h4 style="text-align:center">🌟陪聊APP</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.6-2022.9</span>
 </div>
 
+
 **技术栈**
 
 `react-native` / `simple-peer` / `webrtc` / `socket.io`
@@ -177,9 +190,13 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h3 style="text-align:center">🏢杭州领猫信息科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
 
+> 参与新版管理系统开发，维护快鱼供应链管理系统。
+
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟快鱼供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
+
 
 **技术栈**
 
@@ -199,6 +216,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h4 style="text-align:center">🌟SCM供应链管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2022.3-2022.5</span>
 </div>
 
+
 **技术栈**
 
 `react` / `mobx`
@@ -215,9 +233,13 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h3 style="text-align:center">🏢浙江心思智能科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.4-2022.2</span>
 </div>
 
+> 为工厂定制化MES，独立负责前端需求调研，定制化开发，项目验收。
+
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟宜九财税系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.7-2022.1</span>
 </div>
+
 
 **技术栈**
 
@@ -239,6 +261,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h4 style="text-align:center">🌟永嘉县限额工程智慧监管系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2021.1-2021.7</span>
 </div>
 
+
 **技术栈**
 
 `vue-element-admin` / `echarts` / `bootstrap`
@@ -257,6 +280,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <div style="position:relative">
 <h4 style="text-align:center">🌟MES 生产管控系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2020.9-2021.1</span>
 </div>
+
 
 **技术栈**
 
@@ -282,9 +306,13 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
 <h3 style="text-align:center">🏢易思网络科技有限公司</h3><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2020.1</span>
 </div>
 
+> 在校实习，负责组织人员开发，项目需求分析，前端开发。
+
+
 <div style="position:relative">
 <h4 style="text-align:center">🌟督导管理系统</h4><span style="float:right;position:absolute;top:0px;right:0px;font-style:italic;">2019.3-2019.8</span>
 </div>
+
 **技术栈**
 
 `vue-antd-admin` / `echarts` / `bootstrap `
@@ -312,6 +340,7 @@ PDA 扫码枪使用的安卓 APP 对仓库物料进行扫码入库
     margin: 0px auto;
     border: 0 none;
     border-top: 3px solid #dededc;">
+
 
 ## 🤝 致谢
 
