@@ -2,12 +2,12 @@
 
 ## 👤 个人信息														
 
-林贤澳/男/1999
-工作经验：5年
-求职意向：前端开发工程师｜全栈开发工程师｜web3实习
-个人网站：https://linxianao.com
-技术博客：https://liceal.github.io/
-邮箱：lxaliceal@gmail.com	电话：13250894776
+<div>林贤澳/男/1999</div>
+<div>工作经验：5年</div>
+<div>求职意向：前端开发工程师｜全栈开发工程师｜web3实习</div>
+<div>个人网站：https://linxianao.com</div>
+<div>技术博客：https://liceal.github.io/</div>
+<div>邮箱：lxaliceal@gmail.com	电话：13250894776</div>
 
 ## 🧾 技能清单 
 
