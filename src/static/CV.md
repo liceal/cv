@@ -4,10 +4,11 @@
 
 <div>林贤澳/男/1999</div>
 <div>工作经验：5年</div>
-<div>求职意向：前端开发工程师｜全栈开发工程师｜web3实习</div>
-<div>个人网站：https://linxianao.com</div>
-<div>技术博客：https://liceal.github.io/</div>
-<div>邮箱：lxaliceal@gmail.com	电话：13250894776</div>
+<div>求职意向：前端开发工程师｜全栈开发工程师｜<a href="https://t.me/liceal">web3实习</a></div>
+<div>个人网站：<a href="https://linxianao.com">https://linxianao.com</a></div>
+<div>技术博客：<a href="https://liceal.github.io">https://liceal.github.io</a></div>
+<div>邮箱：<a href="mailto:lxaliceal@gmail.com">lxaliceal@gmail.com</a></div>
+<div>电话：<a href="tel:13250894776">13250894776</a></div>
 
 ## 🧾 技能清单
 
@@ -33,10 +34,10 @@
 
 **🏢 浙江心思智能科技｜全栈工程师｜ 2020.4 - 2022.2**
 
-`Vue` `Vxe-table` `TailwindCSS` `Jenkins` `ElementAdmin` `Django`
+`Vue` `Vxe-table` `TailwindCSS` `Jenkins` `ElementPlus` `Django`
 
 - 财务系统开发，仿金蝶云实现发票凭证功能，基于`Vxe-table`自定义渲染器，并且发 npm 包维护，集成葡萄城低代码。
-- 参与开发政府限额工程项目，对工程项目发布、招标、监管，前端基于`Element-admin`，后端使用`Django`，大数据看板使用`grafana`。
+- 参与开发政府限额工程项目，对工程项目发布、招标、监管，前端基于`Element-plus`，后端使用`Django`，大数据看板使用`grafana`。
 - 驻场独立开发 MES 管理系统，需求分析，完成政府项目验收成为标杆项目。封装列表组件，支持配置表单列表以及渲染器类型，支持 jsx 渲染等。
 
 **🏢 易思网络科技｜初级前端开发工程师（实习）｜ 2019.3 - 2019.8**
@@ -47,7 +48,7 @@
 
 ## 🏆 奖励荣誉
 
-学术类：国家励志奖学金(1 次)、班级一等奖(2 次) 。实践类：人工智能团体赛三等奖，程序设计团体赛三等奖， ACM 校赛团体三等奖。 技能证书：PAT 乙级，二级 C
+学术类: 国家励志奖学金(1 次)、班级一等奖(2 次) 。实践类: 人工智能团体赛三等奖，程序设计团体赛二等奖， ACM 校赛团体二等奖。技能证书: PAT 乙级，二级 C
 
 ## 😃 个人评价
 
