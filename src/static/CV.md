@@ -4,7 +4,7 @@
 
 <div>林贤澳/男/1999</div>
 <div>工作经验：5年</div>
-<div>求职意向：前端开发工程师｜全栈开发工程师｜<a href="https://t.me/liceal">web3实习</a></div>
+<div>求职意向：前端开发工程师｜全栈开发工程师｜<a href="https://t.me/liceal">web3开发</a></div>
 <div>个人网站：<a href="https://linxianao.com">https://linxianao.com</a></div>
 <div>技术博客：<a href="https://liceal.github.io">https://liceal.github.io</a></div>
 <div>邮箱：<a href="mailto:lxaliceal@gmail.com">lxaliceal@gmail.com</a></div>
@@ -13,7 +13,7 @@
 ## 🧾 技能清单
 
 - 熟练掌握`Vue`独立完成和架构后台管理系统，熟悉`VxeTable`库底层代码，了解 `Django` `mongoose` 后端框架。
-- 熟悉移动端开发，`Uniapp` `Taro` `Expo` `Flutter`，如生产中对 RN 使用`mobox`进行数据代理优化，减小重绘范围等。
+- 熟悉移动端开发，`Uniapp` `Taro` `Expo` `Flutter`，曾在 RN 项目中使用`Mobx`+`VirtualizedList`优化大量复杂数据列表渲染。
 - 涉及业务：保税仓报关，商城，供应链管理，政府工程监管，工厂生产流到数据监控，金蝶财务系统等。
 - 打包优化：如生产中对 OMS 系统 拆包使用`split-by-experience`模式平衡缓存和请求等。
 - 实现难点：小程序低代码页面自定义装修和适配，封装组件类似于`VxeTable`风格，根据需求编写高性能渲染器，提高团队开发效率。
@@ -25,7 +25,7 @@
 
 `Vue` `TailwindCSS` `Nuxt` `Tauri` `Taro` `Expo` `wowjs`
 
-- 负责 OMS 系统的架构，包括官网，后台，小程序，低代码封装，小程序模块拖拽装修，封装渲染器，大数据虚拟列表优化，使用`Tauri` `PWA` 桌面化。使用`rsbuild`优化构建环境。
+- 负责 OMS 系统的架构，包括官网，后台，小程序，低代码封装，小程序模块拖拽装修，封装渲染器，大数据虚拟列表优化，使用`Tauri` `PWA` 桌面化提高启动速度。使用`rsbuild`优化构建环境。
 - 负责 CRMEB 商城的前后台移动端二开和维护，PDA 扫码枪 APP 和其他项目快速开发投入生产。
 
 ---
@@ -45,7 +45,7 @@
 
 - 财务系统开发，仿金蝶云实现发票凭证功能，基于`Vxe-table`自定义渲染器，并且发 npm 包维护，集成葡萄城低代码。
 - 参与开发政府限额工程项目，对工程项目发布、招标、监管，前端基于`Element-plus`，后端使用`Django`，大数据看板使用`grafana`。
-- 驻场独立开发 MES 管理系统，需求分析，完成政府项目验收成为标杆项目。封装列表组件，支持配置表单列表以及渲染器类型，支持 jsx 渲染等。
+- 驻场独立开发 MES 管理系统，需求分析，完成政府项目验收成为标杆项目。设计可配置列表组件库，支持配置表单列表以及渲染器类型，支持 jsx 渲染等。
 
 ---
 
