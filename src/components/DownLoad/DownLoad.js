@@ -7,6 +7,9 @@ class DownLoad extends PureComponent {
     this.downLoadUrl = this.downLoadUrl.bind(this);
   }
   downLoadUrl() {
+    // if (this.props.onClick) {
+    //   this.props.onClick()
+    // }
     window.open('https://github.com/liceal/cv/raw/master/src/static/cv.pdf')
   }
   render() {
