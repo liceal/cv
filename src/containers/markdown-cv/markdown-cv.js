@@ -125,7 +125,8 @@ class markdownCv extends Component {
 
     // 读取静态资源文本内容
     fetch(
-      require('@/static/CV.md'),
+      // require('@/static/CV.md'),
+      'https://raw.githubusercontent.com/liceal/cv/refs/heads/master/src/static/CV.md',
       {
         method: "get"
       })
