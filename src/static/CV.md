@@ -76,7 +76,7 @@ V8 财务系统｜`Vue` `VxeTable` `ElementPlus`
 
 ### ⏳ 个人项目
 
-**📱 [PDD 精简版](https://github.com/liceal/uniapp_vitets_mongoosets)** ｜`Express` `Mongoose` `Typescript` `Uniapp` `UnoCSS` `iconfont`
+**📱 [PDD 精简版](https://github.com/liceal/mini-pdd)** ｜`Express` `Mongoose` `Typescript` `Uniapp` `UnoCSS` `iconfont`
 
 - 多端兼容，仿**PDD**长辈版进行开发
 - 前后台一体，使用一套类型文件，提高开发效率，后端参考 **Django** 设计思想
