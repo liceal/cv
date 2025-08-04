@@ -76,6 +76,11 @@ V8 财务系统｜`Vue` `VxeTable` `ElementPlus`
 
 ### ⏳ 个人项目
 
+**⚙️ [GitFolders](https://github.com/liceal/git-folders)** | [插件地址](https://chromewebstore.google.com/detail/baboggkkgobcjjlpejjnjddhijdeipgc?utm_source=item-share-cb) |`Mithril.js` `vite` `unocss`
+
+- Git图床chrome插件，配置仓库信息和token，对仓库文件CRUD，界面简洁，性能好接近原生。
+- 模拟相册支持仓库预览快捷预览，丝滑蛇形滚动，不通设备同账户同步配置信息。
+
 **📱 [PDD 精简版](https://github.com/liceal/mini-pdd)** ｜`Express` `Mongoose` `Typescript` `Uniapp` `UnoCSS` `iconfont`
 
 - 多端兼容，仿**PDD**长辈版进行开发
