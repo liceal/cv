@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">个人简历</h1>
 
-### 👤 个人信息111
+### 👤 个人信息
 
 <div>林贤澳/男/1999</div>
 <div>工作经验：5年</div>
